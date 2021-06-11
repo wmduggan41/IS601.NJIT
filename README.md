@@ -1,4 +1,3 @@
 # IS601.NJIT
 Collaborating project assignment 1
-##Hello
-## Partner names: Ron & Bill
+## Partner names: Ron Munoz & Bill Duggan
