@@ -1,10 +1,9 @@
-# The evolution of the net through the decades and stages
+# The Internet: from birth to boom
 *Collaborating project assignment*
 ## Created by: Ron Munoz & Bill Duggan
 
 
- main-patch-2-RM
-
+ 
 ![Markdown Here logo](https://www.dugcampbell.com/wp-content/uploads/2018/11/brief-history-of-the-internet.jpg)
 
 
