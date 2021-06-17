@@ -1,6 +1,11 @@
-# IS601.NJIT
-Collaborating project assignment 1
-## Partner names: Ron Munoz & Bill Duggan
+# The evolution of the net through the decades and stages
+*Collaborating project assignment*
+## Created by: Ron Munoz & Bill Duggan
+
+
+ main-patch-2-RM
+
+![Markdown Here logo](https://www.dugcampbell.com/wp-content/uploads/2018/11/brief-history-of-the-internet.jpg)
 
 
 This project is intended to educate individuals looking to gain an introduction level of the development of ethernet and computer networking history and principals throught the decades.
@@ -33,7 +38,17 @@ Website main menu: Listing of pages
 
 
 
+=======
+| Table of Contents | Era |  |
+| ------------- |:-------------:| -----:|
+| The Internets infancy  | 1960-1980 | [Link] |
+| The dot com boom  | 1990-200 | [Link] |
+| Mainstream adoption  | 2000-2010 | [Link] |
+| Contemporary evolution  | Modern day | [Link] |
 
 
 
+
+
+ main
 
